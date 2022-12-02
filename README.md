@@ -1,1 +1,3 @@
-# EDK6_6LABJava
+# EDK6_LAB5Java
+
+![Screenshot](anketa.png)
